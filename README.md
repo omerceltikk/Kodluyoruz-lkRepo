@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 ![kodluyoruzpng](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true)
 
 ## Installition
----
+
 Öncelikle projeyi clonelayın.
 
 ```
@@ -17,7 +17,7 @@ git clone https://github.com/omerceltikk/Kodluyoruz-lkRepo.git`
 
 
 ## Usage
----
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
@@ -27,9 +27,9 @@ code .
 ```
 
 ## Contributing
----
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
----
+
 [MIT](https://choosealicense.com/licenses/mit/)
